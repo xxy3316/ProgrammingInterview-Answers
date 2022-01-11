@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="xieyin@10.60.45.66:9998" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="xieyin@10.60.45.66:9998">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/xieyin/pycharm_projects/homework" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
